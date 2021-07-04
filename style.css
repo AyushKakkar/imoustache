@@ -5,7 +5,8 @@ h3
 canvas {
   border:2px dashed black;
 }
-.copy_right_footer {
+.copy_right_footer 
+{
   position: fixed;
   color: #6c757d;
   bottom: 0;
